@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-    // Complete the code.
     int int_value;
     long long_value;
     char char_value;
